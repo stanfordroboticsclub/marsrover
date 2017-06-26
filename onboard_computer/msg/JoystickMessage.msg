@@ -1,0 +1,16 @@
+float32 l_x_axis
+float32 l_y_axis
+float32 l_twist_axis
+float32 r_x_axis
+float32 r_y_axis
+float32 r_twist_axis
+bool button1
+bool button2
+bool button3
+bool button4
+bool button5
+bool button6
+bool button7
+bool button8
+bool button9
+bool button10
